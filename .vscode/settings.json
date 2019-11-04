@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/jonat/Documents/Unreal Projects/tanks-game/EscapeRoom/.vs": true,
+		"C:/Users/jonat/Documents/Unreal Projects/tanks-game/EscapeRoom/.vscode": true,
+		"C:/Users/jonat/Documents/Unreal Projects/tanks-game/EscapeRoom/Content": true,
+		"C:/Users/jonat/Documents/Unreal Projects/tanks-game/EscapeRoom/Intermediate": true,
+		"C:/Users/jonat/Documents/Unreal Projects/tanks-game/EscapeRoom/Saved": true
+	}
+}
